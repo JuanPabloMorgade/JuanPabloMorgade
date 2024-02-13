@@ -13,7 +13,8 @@ Curriculum: [Cv Morgade Juan Pablo.pdf](https://github.com/JuanMorgade/JuanMorga
 * EXL(VBA)    
 * HTML - CSS / SAS - Boostrap / TailwindCSS  -  JavaScript   - PHP 
 * React Native
-* React.js 
+* React.js
+* Flutter Dart
 * Legacy Ionic (Typescript)        
 
 -------------------------------------------------------------💬CONTACTO💬-------------------------------------------------------------------      
