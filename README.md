@@ -1,9 +1,10 @@
-### *************Hola Soy Juan Pablo Morgade - Programador Front-end GitHub Actual 2024*************
+### *************Hola Soy Juan Pablo Morgade - Programador Front-end*************
 
 -------------------------------------------------------------✨SOBRE MÍ✨-------------------------------------------------------------------         
-Apasionado de la programación Back End y el desarrollo web, He llevado a cabo varios proyectos web y aplicaciones de Android y de Windows.
+Desarrollador Front‑end especializado en React, con sólida experiencia en el diseño e implementación de interfaces de usuario escalables, responsivas y accesibles. Aplico buenas prácticas de optimización de rendimiento y trabajo de la mano con equipos de diseño y backend para garantizar entregas de alta calidad.
 
-Curriculum: [Cv Morgade Juan Pablo.pdf](https://github.com/JuanMorgade/JuanMorgade/files/13426493/Cv.Morgade.Juan.Pablo.pdf)
+Curriculum: [Cv Morgade Juan Pablo.pdf]([CV Morgade Juan Pablo 2025.pdf](https://github.com/user-attachments/files/21354120/CV.Morgade.Juan.Pablo.2025.pdf)
+)
 
 
 ![JS-by-SoyHorizonte](https://user-images.githubusercontent.com/106404694/216731458-f7d5e6d2-b69c-4718-bb03-1415bf51ae9c.gif)
