@@ -3,7 +3,7 @@
 -------------------------------------------------------------✨SOBRE MÍ✨-------------------------------------------------------------------         
 Desarrollador Front‑end especializado en React, con sólida experiencia en el diseño e implementación de interfaces de usuario escalables, responsivas y accesibles. Aplico buenas prácticas de optimización de rendimiento y trabajo de la mano con equipos de diseño y backend para garantizar entregas de alta calidad.
 
-Curriculum: [Cv Morgade Juan Pablo.pdf]([CV Morgade Juan Pablo 2025.pdf](https://github.com/user-attachments/files/21354120/CV.Morgade.Juan.Pablo.2025.pdf)
+Curriculum: ([CV Morgade Juan Pablo 2025.pdf](https://github.com/user-attachments/files/21354120/CV.Morgade.Juan.Pablo.2025.pdf)
 )
 
 
