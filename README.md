@@ -29,5 +29,5 @@ Desarrollador Full Stack de Buenos Aires. Trabajé tres años en **Appstract** e
 
 [![Tecnologías](https://skillicons.dev/icons?i=react,nextjs,ts,js,angular,tailwind,nodejs,express,nestjs,prisma,postgres,firebase,gcp,docker,git,vitest,jest)](https://skillicons.dev)
 
-Además: TanStack Query, React Hook Form + Zod, Zustand, shadcn/Radix, Testing Library y Cypress. Trabajo con Scrum/Kanban en Jira y uso Claude Code todos los días.
+Además: TanStack Query, React Hook Form + Zod, Zustand, shadcn/Radix, Testing Library y Cypress. Trabajo con Scrum/Kanban en Jira.
 
